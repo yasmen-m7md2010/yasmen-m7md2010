@@ -49,7 +49,26 @@ Hi, I'm **Yasmen Ghoneim**, a passionate **Data Analyst** from Egypt.
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 </p>
+---
 
+# 📊 Featured Projects
+
+### 🏨 Hotel Booking Analysis & Interactive Dashboard
+
+**Microsoft Excel | 119K+ Booking Records**
+
+Analyzed hotel booking data to identify booking patterns, cancellation behavior, revenue trends, customer segments, and lead-time patterns.
+
+**Key Skills:**
+`Data Cleaning` • `Data Transformation` • `Excel Functions` • `PivotTables` • `KPIs` • `Slicers` • `Dashboard Design`
+
+**Key Insights:**
+- 📌 Overall cancellation rate: **37.04%**
+- 📌 Long-lead bookings showed a significantly higher cancellation rate than short-lead bookings.
+- 📌 City Hotel accounted for the majority of bookings and had a higher cancellation rate than Resort Hotel.
+
+🔗 **[View Project →](https://github.com/yasmen-m7md2010/hotel-booking-analysis-excel)**
+---
 ---
 
 # 📈 GitHub Stats
@@ -61,6 +80,7 @@ Hi, I'm **Yasmen Ghoneim**, a passionate **Data Analyst** from Egypt.
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmenMhmd&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 
 ---
 
