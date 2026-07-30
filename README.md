@@ -1,125 +1,155 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YasmenMhmd.YasmenMhmd">
+<div align="center">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Yasmen+Ghoneim;Data+Analyst;SQL+%7C+Python+%7C+Power+BI;&center=true&size=30">
-  </a>
-</h1>
+# Yasmen Mohamed Ghonim
 
-<h3 align="center">Passionate Data Analyst from Egypt 🇪🇬</h3>
+### Data Analyst 📊 | Egypt 🇪🇬
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yasmen-mhmd">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yasmen.m7md36@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YasmenMhmd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=F2C811\&center=true\&vCenter=true\&width=700\&lines=Data+Analyst+📊;Excel+%7C+Power+BI+%7C+SQL+Server+%7C+Python;Data+Analysis+%7C+Data+Visualization;Business+Intelligence+%7C+Dashboard+Development)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yasmen-mhmd)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yasmen.m7md36@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yasmen-m7md2010)
+[![Profile Views](https://komarev.com/ghpvc/?username=yasmen-m7md2010\&style=for-the-badge\&color=F2C811\&label=PROFILE+VIEWS)](https://github.com/yasmen-m7md2010)
+
+</div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-Hi, I'm **Yasmen Ghoneim**, a passionate **Data Analyst** from Egypt.
+I'm a **Data Analyst** passionate about transforming raw data into meaningful insights that support better business decisions.
 
-- 📊 Passionate about transforming raw data into meaningful insights.
-- 📈 Skilled in Data Analysis, Data Cleaning, Data Visualization, and Dashboard Development.
-- 🐍 Experienced with Python, SQL Server, Excel, and Power BI.
-- 🌱 Currently expanding my knowledge in Machine Learning and Statistics.
-- 📫 **Email:** yasmen.m7md36@gmail.com
+I work with data analysis, visualization, and dashboard development using **Excel, Power BI, SQL Server, and Python**. I enjoy exploring datasets, identifying trends, creating meaningful KPIs, and presenting insights through clear and interactive dashboards.
 
----
-
-# 🛠 Skills & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,figma,vscode"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</p>
----
-
-# 📊 Featured Projects
-
-### 🏨 Hotel Booking Analysis & Interactive Dashboard
-
-**Microsoft Excel | 119K+ Booking Records**
-
-Analyzed hotel booking data to identify booking patterns, cancellation behavior, revenue trends, customer segments, and lead-time patterns.
-
-**Key Skills:**
-`Data Cleaning` • `Data Transformation` • `Excel Functions` • `PivotTables` • `KPIs` • `Slicers` • `Dashboard Design`
-
-**Key Insights:**
-- 📌 Overall cancellation rate: **37.04%**
-- 📌 Long-lead bookings showed a significantly higher cancellation rate than short-lead bookings.
-- 📌 City Hotel accounted for the majority of bookings and had a higher cancellation rate than Resort Hotel.
-
-🔗 **[View Project →](https://github.com/yasmen-m7md2010/hotel-booking-analysis-excel)**
----
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YasmenMhmd&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmenMhmd&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
+* 📊 Focused on **Data Analysis & Business Intelligence**
+* 📈 Building interactive dashboards using **Power BI & Excel**
+* 🗄️ Working with **SQL Server** for data querying and analysis
+* 🐍 Using **Python** for data analysis and visualization
+* 🎯 Interested in turning data into actionable business insights
+* 📚 Continuously developing my analytical and technical skills
+* 📫 Reach me at **[yasmen.m7md36@gmail.com]**
 
 ---
 
-# 🔥 GitHub Streak
+## 🛠️ Tech Stack
 
-<p align="center">
+### 📊 Data Analysis & BI
 
-<img src="https://streak-stats.demolab.com?user=YasmenMhmd&theme=tokyonight&hide_border=true"/>
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-</p>
+### 🐍 Python Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
 ---
 
-# 📊 Contribution Graph
+## 📂 Featured Projects
 
-<p align="center">
+<table>
+<tr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmenMhmd&theme=tokyo-night"/>
+<td width="50%" valign="top">
 
-</p>
+### 📊 Sales Performance Dashboard
+
+**Power BI · DAX · Power Query**
+
+Developed an interactive Power BI dashboard to analyze sales performance and provide a clear overview of key business metrics through interactive visualizations, KPIs, and dynamic filters.
+
+**Tools:** Power BI · DAX · Power Query
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏨 Hotel Booking Analysis & Dashboard
+
+**Excel · Pivot Tables · Charts**
+
+Analyzed hotel booking data using Excel and created an interactive dashboard to explore booking trends, cancellations, customer types, and other key business insights.
+
+**Tools:** Excel · Pivot Tables · Charts
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📫 Let's Connect
+## 📚 Data Analysis Skills
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yasmen-mhmd">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:yasmen.m7md36@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+* **Data Cleaning & Preparation**
+* **Exploratory Data Analysis**
+* **Data Visualization**
+* **Dashboard Development**
+* **KPI Analysis**
+* **Business Insights**
+* **Data Reporting**
+* **SQL Data Analysis**
+* **Excel Analysis**
+* **Power BI Reporting**
+
+---
+
+## 🎓 Certifications
+
+* 🎓 **Data Analysis — Route Academy**
+* 📊 **Microsoft Excel**
+* 📈 **Power BI**
+* 🗄️ **SQL Server**
+* 🐍 **Python for Data Analysis**
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmen-m7md2010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F2C811&icon_color=F2C811&text_color=ffffff" alt="Yasmen's GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmen-m7md2010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2C811&text_color=ffffff" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yasmen-m7m7d2010\&theme=tokyonight\&hide_border=true\&background=0D1117\&ring=F2C811\&fire=F2C811\&currStreakLabel=F2C811)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+* **Advanced SQL** — Complex queries and analytical techniques
+* **Power BI** — DAX, data modeling, and advanced dashboard development
+* **Excel** — Advanced data analysis and reporting
+* **Python** — Data analysis and visualization
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Turning Data Into Insights 📊
 
+**Open to Data Analyst opportunities — Let's Connect!**
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yasmen-mhmd)
+
+[![Gmail](https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yasmen.m7md36@gmail.com)
 
 </div>
