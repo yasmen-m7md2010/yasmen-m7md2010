@@ -58,35 +58,8 @@ I work with data analysis, visualization, and dashboard development using **Exce
 
 ## 📂 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📊 Sales Performance Dashboard
-
-**Power BI · DAX · Power Query**
-
-Developed an interactive Power BI dashboard to analyze sales performance and provide a clear overview of key business metrics through interactive visualizations, KPIs, and dynamic filters.
-
-**Tools:** Power BI · DAX · Power Query
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏨 Hotel Booking Analysis & Dashboard
-
-**Excel · Pivot Tables · Charts**
-
-Analyzed hotel booking data using Excel and created an interactive dashboard to explore booking trends, cancellations, customer types, and other key business insights.
-
-**Tools:** Excel · Pivot Tables · Charts
-
-</td>
-
-</tr>
-</table>
+### [📊 Sales Analysis Report (Power BI)](https://github.com/yasmen-m7md2010/sales-analysis-powerbi)
+Interactive Power BI dashboard analyzing sales, shipping, product, and regional performance (2011–2014) across 4 dynamic report pages.
 
 ---
 
