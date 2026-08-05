@@ -61,6 +61,9 @@ I work with data analysis, visualization, and dashboard development using **Exce
 ### [📊 Sales Analysis Report (Power BI)](https://github.com/yasmen-m7md2010/sales-analysis-powerbi)
 Interactive Power BI dashboard analyzing sales, shipping, product, and regional performance (2011–2014) across 4 dynamic report pages.
 
+### [📊 Customer Churn Dashboard (Power BI)](https://github.com/yasmen-m7md2010/powerbi-customer-churn-dashboard)
+Interactive Power BI dashboard analyzing customer churn, demographics, subscribed services, billing, and account insights to identify churn patterns and support data-driven retention strategies.
+
 ---
 
 ## 📚 Data Analysis Skills
