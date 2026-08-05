@@ -91,21 +91,6 @@ Interactive Power BI dashboard analyzing customer churn, demographics, subscribe
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmen-m7md2010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F2C811&icon_color=F2C811&text_color=ffffff" alt="Yasmen's GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmen-m7md2010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F2C811&text_color=ffffff" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yasmen-m7m7d2010\&theme=tokyonight\&hide_border=true\&background=0D1117\&ring=F2C811\&fire=F2C811\&currStreakLabel=F2C811)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
