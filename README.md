@@ -1,16 +1,16 @@
 <div align="center">
 
-# Yasmen Mohamed Ghonim
+# Yasmen Mohamed Ghonaim
 
 ### Data Analyst 📊 | Egypt 🇪🇬
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=F2C811\&center=true\&vCenter=true\&width=700\&lines=Data+Analyst+📊;Excel+%7C+Power+BI+%7C+SQL+Server+%7C+Python;Data+Analysis+%7C+Data+Visualization;Business+Intelligence+%7C+Dashboard+Development)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yasmen-mhmd)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yasmen.m7md36@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yasmen-m7md2010)
-[![Profile Views](https://komarev.com/ghpvc/?username=yasmen-m7md2010\&style=for-the-badge\&color=F2C811\&label=PROFILE+VIEWS)](https://github.com/yasmen-m7md2010)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yasmen-m7md2010.github.io/yasmen-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmen-mhmd)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasmen-m7md2010)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmen.m7md36@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=yasmen-m7md2010&style=for-the-badge&color=F2C811&label=PROFILE+VIEWS)](https://github.com/yasmen-m7md2010)
 </div>
 
 ---
@@ -64,7 +64,12 @@ Interactive Power BI dashboard analyzing sales, shipping, product, and regional 
 ### [📊 Customer Churn Dashboard (Power BI)](https://github.com/yasmen-m7md2010/powerbi-customer-churn-dashboard)
 Interactive Power BI dashboard analyzing customer churn, demographics, subscribed services, billing, and account insights to identify churn patterns and support data-driven retention strategies.
 
+### [🎓 Student Performance Dashboard (Power BI)](https://github.com/yasmen-m7md2010/student-performance-dashboard)
+
+Interactive Power BI dashboard analyzing student academic performance to identify performance patterns and generate meaningful insights.
+
 ---
+
 
 ## 📚 Data Analysis Skills
 
