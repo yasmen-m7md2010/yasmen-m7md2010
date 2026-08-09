@@ -114,8 +114,10 @@ Interactive Power BI dashboard analyzing student academic performance to identif
 
 **Open to Data Analyst opportunities — Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yasmen-mhmd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmen-mhmd)
 
-[![Gmail](https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yasmen.m7md36@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasmen-m7md2010)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmen.m7md36@gmail.com)
 
 </div>
