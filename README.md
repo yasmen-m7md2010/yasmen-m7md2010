@@ -68,6 +68,10 @@ Interactive Power BI dashboard analyzing customer churn, demographics, subscribe
 
 Interactive Power BI dashboard analyzing student academic performance to identify performance patterns and generate meaningful insights.
 
+### [🎵 Spotify Music Analysis Dashboard (Power BI)](https://github.com/yasmen-m7md2010/spotify-music-analysis)
+
+Interactive Power BI dashboard analyzing Spotify streaming performance across artists, genres, languages, countries, and debut years to identify trends and generate meaningful insights.
+
 ---
 
 
